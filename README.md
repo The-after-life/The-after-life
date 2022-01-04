@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @The-after-life
-- 👀 I’m interested in data science and technosively advence in any other Programming Langauge also.
+- 👀 I’m interested in data science and technosively advance in any other Programming Langauge also.
 - 🌱 I’m currently working with an organisation in web Development. 
 - 📫 How to reach me can contact by email id : akshaymayekar02399@gmail.com
 
