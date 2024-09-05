@@ -23,7 +23,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mumbai India.
 
-- :telescope: I’m working as Senior Full Stack Develper and contributing to frontend and backend for building web applications as well as team Handeling
+- :telescope: I’m working as  Full Stack Develper and contributing to frontend and backend for building web applications as well as team Handeling
 
 - :seedling: Exploring Technical Content Writing.
 
