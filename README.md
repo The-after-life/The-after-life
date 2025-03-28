@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leet code and read tech articles.
 
-- :mailbox:How to reach me from Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-mayekar-3832671bb/) and can email 📫  akshaymayekar02399@gmail.com
+- :mailbox:How to reach me from Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-mayekar-3832671bb/) and can email 📫  akshaymayekar02399@gmail.com
 
 ---
 
